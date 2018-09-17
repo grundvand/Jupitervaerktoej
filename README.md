@@ -50,7 +50,7 @@ Du modtager herefter en bekræftende email og senere en email med et link hvorfr
 Koblingerne mellem excel-filerne og den downloadede udgave af Jupiterdatabasen skulle nu gerne være sat op så excel-filerne kan bruges.
 
 5) Nyt download af Jupiter:\
-Da det er en downloadet udgave af Jupiter vil nyt data ikke komme ind. Derfor kan man vælge at downloade en ny udgave hver eller hver anden måned.
+Da det er en downloadet udgave af Jupiter vil nyt data ikke komme ind. Derfor kan man vælge at downloade en ny udgave af Jupiter-databasen hver eller hver anden måned.
 - Start med at omdøbe den forældede Jupiter-database til fx "JUPITER_01_01_2018".
 - Følg ovenstående punkt 1) "Download Jupiterdatabasen".
 - Følg ovenstående punkt 3) "Flyt og navngiv Jupiterdatabasen".
