@@ -45,16 +45,16 @@ Du modtager herefter en bekræftende email og senere en email med et link hvorfr
 - Under "Angiv datakilden" vælg "Gennemse..." og find mappen med excel-filerne og gå ind i undermappen "JUP_database".
   Vælg databasen "JUPITER".
 - Vælg punktet "Opret en kæde til datakilden ved at oprette en sammenkædet tabel" og tryk OK.
-- Tryk knappen "Marker alt" og derefter OK.\
-Luk filen du er i.\
+- Tryk knappen "Marker alt" og derefter OK.
+- Luk filen du er i.\
 Koblingerne mellem excel-filerne og den downloadede udgave af Jupiterdatabasen skulle nu gerne være sat op så excel-filerne kan bruges.
 
 5) Nyt download af Jupiter:\
-Da det er en downloadet udgave af Jupiter vil nyt data ikke komme ind. Derfor kan man vælge at downloade en ny udgave hver eller hver anden måned.\
-Start med at omdøbe den forældede Jupiter-database til fx "JUPITER_01_01_2018".\
-Følg ovenstående punkt 1) "Download Jupiterdatabasen".\
-Følg ovenstående punkt 3) "Flyt og navngiv Jupiterdatabasen".\
-Det er IKKE nødvendigt at følge punkt 4) "Opsætning af link mellem Excel-filerne og jupiterdatabasen" da "JUP_forespørgsler" linker til filen med navnet "JUPITER", som nu er navnet på den nye udgave af Jupiter-databasen.
+Da det er en downloadet udgave af Jupiter vil nyt data ikke komme ind. Derfor kan man vælge at downloade en ny udgave hver eller hver anden måned.
+- Start med at omdøbe den forældede Jupiter-database til fx "JUPITER_01_01_2018".
+- Følg ovenstående punkt 1) "Download Jupiterdatabasen".
+- Følg ovenstående punkt 3) "Flyt og navngiv Jupiterdatabasen".
+- Det er IKKE nødvendigt at følge punkt 4) "Opsætning af link mellem Excel-filerne og jupiterdatabasen" da "JUP_forespørgsler" linker til filen med navnet "JUPITER", som nu er navnet på den nye udgave af Jupiter-databasen.
 
 6) Ny version af excelfilerne:\
 Hvis der kommer en ny version af en eller flere excel-filer kan de downloades som beskrevet i punkt 2) "Hent Jupiterværktøj".\
