@@ -39,7 +39,7 @@ Du modtager herefter en bekræftende email og senere en email med et link hvorfr
 - Højreklik og tryk "Omdøb". Filen skal navngives "JUPITER"
 
 4) Opsætning af link mellem Excel-filerne og jupiterdatabasen:\
-Åben Microsoft Access Database filen "JUP_forespørgsler" der er placeret sammen med Excel-filerne.
+Åben Microsoft Access Database filen "JUP_forespørgsler" der er placeret sammen med Excel-filerne. Det er programmet Microsoft Access du skal bruge til at åbne filen med som er en del af Microsoft Office pakken. Hvis du ikke umiddelbart har programmet installeret se i dit softwarecenter eller kontakt din lokale IT afdeling.
 - Vælg "Eksterne data" i øverste menu
 - Vælg "Access" i rubrikken "Importér og link". Symbolet er en rød firkant med et stort A og en nøgle samt en grøn pil ind i en tabel.
 - Under "Angiv datakilden" vælg "Gennemse..." og find mappen med excel-filerne og gå ind i undermappen "JUP_database".
