@@ -38,7 +38,7 @@ Du modtager herefter en bekræftende email og senere en email med et link hvorfr
 - Højreklik og tryk "Sæt ind".
 - Højreklik og tryk "Omdøb". Filen skal navngives "JUPITER"
 
-4) Fjern blokering
+4) Fjern blokering:\
 Excel- og Accessprogrammerne benytter sig af macroer, computerkode der kører i programmets baggrund.
 Nogle brugere oplever at Microsoft Office har blokeret muligheden for at køre macroer i baggrunden.
 For at fjerne blokeringen skal man gøre følgende for hver Excelfil og Access-filen "JUP_forespørgsler":
