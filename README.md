@@ -70,4 +70,6 @@ Hvis der kommer en ny version af en eller flere excel-filer kan de downloades so
 Ved blot at klippe de nye excel-filer fra den udpakkede zip-fil over i mappen Jupiterværktøj (og overskrive de gamle excel-filer) undgår man at skulle lave en ny opsætning af "JUP_forespørgsler".
 
 ***
-Der er ikke lavet en beskrivelse af brugen af de enkelte excel-filer endnu.
+Følgende mangler:
+- Opdatering af forespørgslerne i JUP_forespørgsler. Disse kører stadig på de gamle standat-kodelister og giver derfor forkert resultat.
+- Beskrivelse af brugen af de enkelte excel-filer.
