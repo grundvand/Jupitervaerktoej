@@ -43,7 +43,7 @@ Excel- og Accessprogrammerne benytter sig af macroer, computerkode der kører i 
 Nogle brugere oplever at Microsoft Office har blokeret muligheden for at køre macroer i baggrunden.
 For at fjerne blokeringen skal man gøre følgende for hver Excelfil og Access-filen "JUP_forespørgsler":
 - Højreklik på filen i stifinder, og tryk Egenskaber
-- Afkryds "Fjern blokering" (Se evt. filen Fjern blokering.PNG)
+- Afkryds "Fjern blokering" (Se evt. filen [Fjern blokering.PNG](Fjern%20blokering.PNG))
 - Tryk OK
 - Gentag for hver fil
 
