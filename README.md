@@ -29,7 +29,7 @@ Du modtager herefter en bekræftende email og senere en email med et link hvorfr
 - Åben den udpakkede mappe med samme navn som zip-filen.
 - Marker alle filerne, højreklik på filen og tryk klip.
 - Lav en mappe hvor du ønsker at have værktøjet liggende. Navngivningen er ikke vigtig, men kunne være "Jupiterværktøj".
-Det er vigtigt at mappen er placeret lokalt, og ikke i OneDrive/Sharepoint. Bemærk, ved nogle kommuner er skrivebordet koblet til OneDrive og mappen kan derfor ikke ligge der. Eksempler hvor det kan virke at placere mappen kan være f.eks. C:\Users\[BRUGERNAVN]\ eller F, G, H, I-drev (mv.).
+Det er vigtigt at mappen er placeret lokalt, og ikke i OneDrive/Sharepoint. Bemærk, ved nogle kommuner er skrivebordet koblet til OneDrive og mappen kan derfor ikke ligge der. Eksempler hvor det kan virke at placere mappen kan være f.eks. C:\Users\BRUGERNAVN\ eller F, G, H, I-drev (mv.).
 - Gå ind i mappen, højreklik og tryk "Sæt ind".
 
 3) Flyt og navngiv Jupiterdatabasen:
