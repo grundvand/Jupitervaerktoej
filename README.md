@@ -5,7 +5,7 @@ Projektindehaverne fraskriver sig alt ansvar ved download og brug af programmern
 Programmerne er gratis tilgængelige og må modificeres som man ønsker.
 
 Udviklet af:
-- Mads S. Christensen, Geolog v. Kalundborg Kommune
+- Mads S. Christensen, Geolog v. Esbjerg Kommune
 - Karsten B. Rud , Geolog v. Sorø Kommune
 
 ***
